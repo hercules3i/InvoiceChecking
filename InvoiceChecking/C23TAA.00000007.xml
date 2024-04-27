@@ -1,0 +1,139 @@
+<HDon>
+    <DLHDon Id="9c938e9b-0092-4282-b707-901d0d176b13">
+        <TTChung>
+            <PBan>2.0.1</PBan>
+            <THDon>Hóa đơn giá trị gia tăng</THDon>
+            <KHMSHDon>1</KHMSHDon>
+            <KHHDon>C23TAA</KHHDon>
+            <SHDon>00000007</SHDon>
+            <NLap>2023-10-25</NLap>
+            <DVTTe>VND</DVTTe>
+            <TGia>1</TGia>
+            <HTTToan>Chuyển khoản</HTTToan>
+            <MSTTCGP>0101360697</MSTTCGP>
+        </TTChung>
+        <NDHDon>
+            <NBan>
+                <Ten>CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I</Ten>
+                <MST>0104113262</MST>
+                <DChi>Nhà B1- 4- Khu đô thị 54 Hạ Đình, Ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành
+                    phố Hà Nội, Việt Nam
+                </DChi>
+            </NBan>
+            <NMua>
+                <Ten>Bộ tư lệnh cảnh sát biển</Ten>
+                <DChi>Km6+825 Đại lộ Thăng Long, Phường Tây Mỗ, quận Nam Tư Liêm, TP.Hà Nội</DChi>
+            </NMua>
+            <DSHHDVu>
+                <HHDVu>
+                    <TChat>1</TChat>
+                    <STT>1</STT>
+                    <THHDVu>Sửa chữa, nâng cấp giao diện website canhsatbien.vn theo Hợp đồng 10957/HĐMB</THHDVu>
+                    <DVTinh>gói</DVTinh>
+                    <SLuong>1</SLuong>
+                    <DGia>99500000</DGia>
+                    <TLCKhau>0</TLCKhau>
+                    <STCKhau>0</STCKhau>
+                    <ThTien>99500000</ThTien>
+                    <TSuat>KCT</TSuat>
+                </HHDVu>
+            </DSHHDVu>
+            <TToan>
+                <THTTLTSuat>
+                    <LTSuat>
+                        <TSuat>KCT</TSuat>
+                        <ThTien>99500000</ThTien>
+                        <TThue>0</TThue>
+                    </LTSuat>
+                </THTTLTSuat>
+                <TgTCThue>99500000</TgTCThue>
+                <TgTThue>0</TgTThue>
+                <TTCKTMai>0</TTCKTMai>
+                <TgTTTBSo>99500000</TgTTTBSo>
+                <TgTTTBChu>Chín mươi chín triệu năm trăm nghìn đồng chẵn./.</TgTTTBChu>
+            </TToan>
+        </NDHDon>
+    </DLHDon>
+    <MCCQT Id="Id-ddd12845602e4aeb8fcef4385a6fc381">00BE788524CA264DC0A54C3411DA529422</MCCQT>
+    <DSCKS>
+        <NBan>
+            <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+                <SignedInfo>
+                    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+                    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                    <Reference URI="#9c938e9b-0092-4282-b707-901d0d176b13">
+                        <Transforms>
+                            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        </Transforms>
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                        <DigestValue>3RIn50qZ0WYqbUnJ0Qfj83/Vbao=</DigestValue>
+                    </Reference>
+                    <Reference URI="#Timestamp">
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                        <DigestValue>Nb5xuIu29z/AMN35v14SzP9jCNA=</DigestValue>
+                    </Reference>
+                </SignedInfo>
+                <SignatureValue>
+                    cYXHkftCy3+R2zU95uqKcMfPvstAYbJ2aFtpRNQ3haHnTDLAsnIgI3Km0GtEvLNupiFlHsaq2voEBI6X6tOmCr3nI23lWZWNSeA5hyXdi3gCpluaXNJfLdMSWFLHIGBiA5BzU0NQj7L2g2X3B8vCpcSuOa0H89PV+TCMjsJGud8=
+                </SignatureValue>
+                <KeyInfo>
+                    <X509Data>
+                        <X509SubjectName>UID=MST:0104113262, CN=CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG
+                            3I, L=THANH XUÂN, ST=HÀ NỘI, C=VN
+                        </X509SubjectName>
+                        <X509Certificate>
+                            MIIFwzCCA6ugAwIBAgIQVAEBAXnbsytFyu9KcSEG2zANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQGEwJWTjETMBEGA1UEChMKVk5QVCBHcm91cDEeMBwGA1UECxMVVk5QVC1DQSBUcnVzdCBOZXR3b3JrMSUwIwYDVQQDExxWTlBUIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDQwNzA0MTkwMFoXDTI0MDYyNjA4MDIwMFowgaYxCzAJBgNVBAYTAlZOMRIwEAYDVQQIDAlIw4AgTuG7mEkxFDASBgNVBAcMC1RIQU5IIFhVw4JOMU0wSwYDVQQDDERDw5RORyBUWSBUTkhIIE3hu5hUIFRIw4BOSCBWScOKTiBDw5RORyBOR0jhu4YgVsOAIFRSVVnhu4BOIFRIw5RORyAzSTEeMBwGCgmSJomT8ixkAQEMDk1TVDowMTA0MTEzMjYyMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWlzkM6fyCXU3nL4gVyW2rrDxC5MoCN1RX7kxLmqhMz11Ft2uG84Ut0Zvhyz1ZfrAlvt3c4sUF0dZTdy8CyeHShqCI1Rh+HGjCA5Wy1UxEeK3D+NABo96Sh1dTsJBsqiipRw52NLqLqqMIYByKb/hrpqoj400wx2d/QT1M6sEq3QIDAQABo4IBqzCCAacwcAYIKwYBBQUHAQEEZDBiMDIGCCsGAQUFBzAChiZodHRwOi8vcHViLnZucHQtY2Eudm4vY2VydHMvdm5wdGNhLmNlcjAsBggrBgEFBQcwAYYgaHR0cDovL29jc3Audm5wdC1jYS52bi9yZXNwb25kZXIwHQYDVR0OBBYEFM1yMzkCtYYmw+g2cKLrvC0B7NXkMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUBmnA1dUCihWNRn3pfOJoClWsaq8waAYDVR0gBGEwXzBdBg4rBgEEAYHtAwEBAwEBATBLMCIGCCsGAQUFBwICMBYeFABPAEkARAAtAFMAVAAtADEALgAwMCUGCCsGAQUFBwIBFhlodHRwOi8vcHViLnZucHQtY2Eudm4vcnBhMDEGA1UdHwQqMCgwJqAkoCKGIGh0dHA6Ly9jcmwudm5wdC1jYS52bi92bnB0Y2EuY3JsMA4GA1UdDwEB/wQEAwIE8DAgBgNVHSUEGTAXBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwFgYDVR0RBA8wDYELMUBnbWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggIBAJreTKzLyheGvea/AHcX+RBIAFoKqpHE7EzyFcmyYz7uf4bAPW/Pk3pr5+VaOithO9zn2pZJLZKnwYsh5O8aPvz206bNnt24XGEhqTLUSuIrYp4D6VrBcyI6DVzBalxnm8c5dhXu2xFSqn00SXNzTfwrgQ/NFCwARizI7c0+w+1YEkfvBztmAfSWr0De/iME6ArG/YhKHJLPuVZh3iFdpirmMVQ2gL99QRafkeh4YcVY+lqHPPWmM5LHB5TN3ImWoyxa4/l7PC+TjRTC+p3KWahEdHMnZjB5xChjSDc1RbWOjeVdneCXVjYdnjvCX3igpVsNqhSPoUHizcBXpA1B0kEK2+XNlXj/lLZ1X167o1VCltCdzfm/vDChyfC3Slj9XFcZLQMl/f1pecWp/2b1a27sNCkifwCbEQoIYI1LqLWFuDEEqPNXDz/0iXdxkSWGJiIEUieIO5ByIdXJlQVoJJF39ZQnt4x8c+Lf6Lcvg+4XnK7SJIh6NUF4mt7MKHPgH2L/GurwZvIX/klhHdoGycPbRv1lzI0hNA3AYs8VX6w8FZuB/6C6eTSvWaG03MUWge/zxKINvYMlEagKe6imjj4idSq+aSrF0Bq36Gk4BTFM3te8brcSfiNoBBomhENAKbWVi0ptWZRoERYxKGWtnhqEUqk+kgjAvM8ZemOWEHCA
+                        </X509Certificate>
+                    </X509Data>
+                </KeyInfo>
+                <Object Id="Timestamp">
+                    <SignatureProperties>
+                        <SignatureProperty Target="">
+                            <SigningTime>2023-10-25T09:14:08</SigningTime>
+                        </SignatureProperty>
+                    </SignatureProperties>
+                </Object>
+            </Signature>
+        </NBan>
+        <NMua/>
+        <CCKSKhac/>
+        <CQT>
+            <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="Tct-478cef4fce664c51aae078767e952ccf">
+                <SignedInfo>
+                    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+                    <Reference URI="#9c938e9b-0092-4282-b707-901d0d176b13">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+                        <DigestValue>F4Bx4wcB4rup05VWdb3r2iegg9zziC1RFEorthSxx/Q=</DigestValue>
+                    </Reference>
+                    <Reference URI="#SigningTime-79481a928dc44e75971dc388d84916ee">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+                        <DigestValue>x5kN3j44KLHg4UiJSHHbeZRPXpwVK+1cydjs8xaQf1c=</DigestValue>
+                    </Reference>
+                    <Reference URI="#Id-ddd12845602e4aeb8fcef4385a6fc381">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+                        <DigestValue>QklzeHn+8+9NfH/sUEIJTlDw6aMgrlPs4t/5X/nLsu4=</DigestValue>
+                    </Reference>
+                </SignedInfo>
+                <SignatureValue>
+                    FcQYkxE4Ni3xIBxrsDq6jTv/j40+v5Ct+12BzXUmutJyghXbMGVJdKzu67TQx/QO/paV/OUoYR+1TLsOMLWmlkAvP2PJ+7+fLOmK9jVBv8Weotolr0yEPdtmi64BFCrvabXd5nJwEt/BE7cdWfGMJAhp8AbtDz9++NFDXrAzlC0cz3AG6YZ+haxDa5gHJBf4q9cWVEdPiSQ9ySbWfpWzfDLdku1EB2FyG6ianZlgbFIdismB/Crm6NiRI3p+zd4rqhEFb8Cq24b8x9p2VGTtvEvQhcU2ZMLb6TaAXmYHt71fUO9ooSKqzcfnSU3lxctfWOM4inbAVugOvBYK6Pc6sg==
+                </SignatureValue>
+                <KeyInfo>
+                    <X509Data>
+                        <X509SubjectName>CN=TỔNG CỤC THUẾ,O=BỘ TÀI CHÍNH,L=Hà Nội,C=VN</X509SubjectName>
+                        <X509Certificate>
+                            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
+                        </X509Certificate>
+                    </X509Data>
+                </KeyInfo>
+                <Object Id="SigningTime-79481a928dc44e75971dc388d84916ee">
+                    <SignatureProperties>
+                        <SignatureProperty Target="signatureProperties">
+                            <SigningTime>2023-10-25T09:14:59</SigningTime>
+                        </SignatureProperty>
+                    </SignatureProperties>
+                </Object>
+            </Signature>
+        </CQT>
+    </DSCKS>
+</HDon>
